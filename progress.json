@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:32:51.051Z",
+  "generated_at": "2026-10-01T19:04:43.614Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -26,6 +26,19 @@
       "last_pushed_at": "2026-10-01T18:32:48.540Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:842": {
+      "kind": "problem",
+      "id": "842",
+      "title": "StandardScaler Fit and Transform",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/842",
+      "path": "problems/0842-standardscaler-fit-and-transform",
+      "first_solved_at": "2026-10-01T19:04:41.057Z",
+      "last_pushed_at": "2026-10-01T19:04:41.057Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
