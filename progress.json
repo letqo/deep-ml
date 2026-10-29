@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T17:36:21.661Z",
+  "generated_at": "2026-10-29T17:46:07.926Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -36,7 +36,7 @@
       "url": "https://www.deep-ml.com/problems/842",
       "path": "problems/0842-standardscaler-fit-and-transform",
       "first_solved_at": "2026-10-01T19:04:41.057Z",
-      "last_pushed_at": "2026-10-01T19:04:41.057Z",
+      "last_pushed_at": "2026-10-29T17:46:07.058Z",
       "language": "python",
       "lines": 18
     },
