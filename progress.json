@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T14:33:26.732Z",
+  "generated_at": "2026-10-29T17:18:14.441Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -189,6 +189,19 @@
       "last_pushed_at": "2026-10-28T14:33:25.043Z",
       "language": "python",
       "lines": 41
+    },
+    "problem:313": {
+      "kind": "problem",
+      "id": "313",
+      "title": "Numerical Gradient Checking",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/313",
+      "path": "problems/0313-numerical-gradient-checking",
+      "first_solved_at": "2026-10-29T17:18:13.575Z",
+      "last_pushed_at": "2026-10-29T17:18:13.575Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
