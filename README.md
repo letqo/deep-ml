@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**26** solved · 18 problems · 0 labs · 8 math
+**27** solved · 19 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-01 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-10-29 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-28 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-11-02 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-28 | [solution](problems/0009-matrix-times-matrix) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-10-29 | [solution](problems/0313-numerical-gradient-checking) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-10-01 | [solution](problems/0842-standardscaler-fit-and-transform) |
