@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:23:46.861Z",
+  "generated_at": "2026-11-03T14:39:46.376Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -420,6 +420,17 @@
       "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
       "first_solved_at": "2026-11-03T14:23:44.670Z",
       "last_pushed_at": "2026-11-03T14:23:44.670Z"
+    },
+    "math:27": {
+      "kind": "math",
+      "id": "27",
+      "title": "Statistical Inference",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/27",
+      "path": "math/0027-statistical-inference",
+      "first_solved_at": "2026-11-03T14:39:44.240Z",
+      "last_pushed_at": "2026-11-03T14:39:44.240Z"
     }
   }
 }
