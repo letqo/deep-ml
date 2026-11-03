@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:39:46.376Z",
+  "generated_at": "2026-11-03T14:56:48.163Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -431,6 +431,17 @@
       "path": "math/0027-statistical-inference",
       "first_solved_at": "2026-11-03T14:39:44.240Z",
       "last_pushed_at": "2026-11-03T14:39:44.240Z"
+    },
+    "math:156": {
+      "kind": "math",
+      "id": "156",
+      "title": "Least Squares as Maximum Likelihood under Gaussian Noise",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/156",
+      "path": "math/0156-least-squares-as-maximum-likelihood-under-gaussian-noise",
+      "first_solved_at": "2026-11-03T14:56:45.975Z",
+      "last_pushed_at": "2026-11-03T14:56:45.975Z"
     }
   }
 }
