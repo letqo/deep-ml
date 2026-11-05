@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**44** solved · 31 problems · 0 labs · 13 math
+**45** solved · 32 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-11-05 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-11-03 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-11-03 | [solution](problems/0182-central-limit-theorem-simulation) |
+| [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-11-05 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-11-05 | [solution](problems/0219-derivative-of-softmax) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-11-03 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-10-29 | [solution](problems/0354-handle-missing-data-with-imputation) |
