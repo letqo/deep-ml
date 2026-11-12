@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**59** solved · 46 problems · 0 labs · 13 math
+**60** solved · 47 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Derivative of Softmax](https://www.deep-ml.com/problems/219) | medium | 2026-11-05 | [solution](problems/0219-derivative-of-softmax) |
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-11-03 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Entropy & Cross-Entropy](https://www.deep-ml.com/problems/205) | medium | 2026-11-12 | [solution](problems/0205-entropy-cross-entropy) |
+| [Find the Best Gini-Based Split for a Binary Decision Tree](https://www.deep-ml.com/problems/138) | medium | 2026-11-12 | [solution](problems/0138-find-the-best-gini-based-split-for-a-binary-decision-tree) |
 | [Gaussian Naive Bayes Classifier](https://www.deep-ml.com/problems/261) | medium | 2026-11-12 | [solution](problems/0261-gaussian-naive-bayes-classifier) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-10-29 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-28 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
