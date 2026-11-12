@@ -10,6 +10,6 @@ def gini_impurity(y):
     """
     y = np.array(y)
     _, counts = np.unique(y, return_counts=True)
-    fract = np.array(counts)/len(y)
+    fract = counts/len(y)
     gini = 1 - np.sum(fract **2)
     return round(gini,3)
