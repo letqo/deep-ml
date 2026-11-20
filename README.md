@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**61** solved · 48 problems · 0 labs · 13 math
+**62** solved · 49 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -58,6 +58,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [RSE, R-Squared and the F-Statistic](https://www.deep-ml.com/problems/1361) | medium | 2026-11-05 | [solution](problems/1361-rse-r-squared-and-the-f-statistic) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-10-01 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Coefficient Standard Errors, t-Statistics and p-Values](https://www.deep-ml.com/problems/1360) | hard | 2026-11-03 | [solution](problems/1360-coefficient-standard-errors-t-statistics-and-p-values) |
+| [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-11-20 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-05 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-11-05 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
 
