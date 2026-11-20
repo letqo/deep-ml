@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T09:28:48.104Z",
+  "generated_at": "2026-11-20T12:42:36.646Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -780,6 +780,19 @@
       "last_pushed_at": "2026-11-20T09:28:46.583Z",
       "language": "python",
       "lines": 54
+    },
+    "problem:807": {
+      "kind": "problem",
+      "id": "807",
+      "title": "Random Forest Fit from Scratch",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/807",
+      "path": "problems/0807-random-forest-fit-from-scratch",
+      "first_solved_at": "2026-11-20T12:42:34.588Z",
+      "last_pushed_at": "2026-11-20T12:42:34.588Z",
+      "language": "python",
+      "lines": 88
     }
   }
 }

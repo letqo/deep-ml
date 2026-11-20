@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**62** solved · 49 problems · 0 labs · 13 math
+**63** solved · 50 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Maximum Likelihood Estimation for Gaussian Distribution](https://www.deep-ml.com/problems/337) | medium | 2026-11-03 | [solution](problems/0337-maximum-likelihood-estimation-for-gaussian-distribution) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-11-03 | [solution](problems/0080-normal-distribution-pdf-calculator) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-10-29 | [solution](problems/0313-numerical-gradient-checking) |
+| [Random Forest Fit from Scratch](https://www.deep-ml.com/problems/807) | medium | 2026-11-20 | [solution](problems/0807-random-forest-fit-from-scratch) |
 | [RSE, R-Squared and the F-Statistic](https://www.deep-ml.com/problems/1361) | medium | 2026-11-05 | [solution](problems/1361-rse-r-squared-and-the-f-statistic) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-10-01 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Coefficient Standard Errors, t-Statistics and p-Values](https://www.deep-ml.com/problems/1360) | hard | 2026-11-03 | [solution](problems/1360-coefficient-standard-errors-t-statistics-and-p-values) |
