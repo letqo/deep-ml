@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**65** solved · 52 problems · 0 labs · 13 math
+**66** solved · 53 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -62,6 +62,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [XGBoost Objective Function Calculation](https://www.deep-ml.com/problems/347) | medium | 2026-11-21 | [solution](problems/0347-xgboost-objective-function-calculation) |
 | [Coefficient Standard Errors, t-Statistics and p-Values](https://www.deep-ml.com/problems/1360) | hard | 2026-11-03 | [solution](problems/1360-coefficient-standard-errors-t-statistics-and-p-values) |
 | [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-11-20 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
+| [Implement Stacking Classifier](https://www.deep-ml.com/problems/346) | hard | 2026-11-21 | [solution](problems/0346-implement-stacking-classifier) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-05 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-11-05 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
 
