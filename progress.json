@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T12:59:14.325Z",
+  "generated_at": "2026-11-21T14:44:03.578Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -832,6 +832,19 @@
       "last_pushed_at": "2026-11-21T12:59:12.848Z",
       "language": "python",
       "lines": 48
+    },
+    "problem:283": {
+      "kind": "problem",
+      "id": "283",
+      "title": "Implement Hinge Loss for SVM",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/283",
+      "path": "problems/0283-implement-hinge-loss-for-svm",
+      "first_solved_at": "2026-11-21T14:44:02.772Z",
+      "last_pushed_at": "2026-11-21T14:44:02.772Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
