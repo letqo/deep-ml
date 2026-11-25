@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**70** solved · 57 problems · 0 labs · 13 math
+**71** solved · 58 problems · 0 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -67,6 +67,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Bagging Classifier from Scratch](https://www.deep-ml.com/problems/307) | hard | 2026-11-20 | [solution](problems/0307-implement-bagging-classifier-from-scratch) |
 | [Implement Stacking Classifier](https://www.deep-ml.com/problems/346) | hard | 2026-11-21 | [solution](problems/0346-implement-stacking-classifier) |
 | [Pegasos Kernel SVM Implementation](https://www.deep-ml.com/problems/21) | hard | 2026-11-25 | [solution](problems/0021-pegasos-kernel-svm-implementation) |
+| [Purged Walk-Forward Cross-Validation](https://www.deep-ml.com/problems/1351) | hard | 2026-11-25 | [solution](problems/1351-purged-walk-forward-cross-validation) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-05 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 | [Train Softmax Regression with Gradient Descent](https://www.deep-ml.com/problems/105) | hard | 2026-11-05 | [solution](problems/0105-train-softmax-regression-with-gradient-descent) |
 

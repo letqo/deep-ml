@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T10:29:52.786Z",
+  "generated_at": "2026-11-25T15:16:36.746Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -884,6 +884,19 @@
       "last_pushed_at": "2026-11-25T10:29:51.851Z",
       "language": "python",
       "lines": 42
+    },
+    "problem:1351": {
+      "kind": "problem",
+      "id": "1351",
+      "title": "Purged Walk-Forward Cross-Validation",
+      "difficulty": "hard",
+      "category": "Financial Engineering",
+      "url": "https://www.deep-ml.com/problems/1351",
+      "path": "problems/1351-purged-walk-forward-cross-validation",
+      "first_solved_at": "2026-11-25T15:16:35.777Z",
+      "last_pushed_at": "2026-11-25T15:16:35.777Z",
+      "language": "python",
+      "lines": 31
     }
   }
 }
